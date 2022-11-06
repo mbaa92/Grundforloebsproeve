@@ -1,0 +1,8 @@
+C:\Users\Mads\source\repos\Afslutningstest Mads hold D55\Mads opg 4\Mads opg 4\bin\Debug\Mads opg 4.exe.config
+C:\Users\Mads\source\repos\Afslutningstest Mads hold D55\Mads opg 4\Mads opg 4\bin\Debug\Mads opg 4.exe
+C:\Users\Mads\source\repos\Afslutningstest Mads hold D55\Mads opg 4\Mads opg 4\bin\Debug\Mads opg 4.pdb
+C:\Users\Mads\source\repos\Afslutningstest Mads hold D55\Mads opg 4\Mads opg 4\obj\Debug\Mads opg 4.csproj.AssemblyReference.cache
+C:\Users\Mads\source\repos\Afslutningstest Mads hold D55\Mads opg 4\Mads opg 4\obj\Debug\Mads opg 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mads\source\repos\Afslutningstest Mads hold D55\Mads opg 4\Mads opg 4\obj\Debug\Mads opg 4.csproj.CoreCompileInputs.cache
+C:\Users\Mads\source\repos\Afslutningstest Mads hold D55\Mads opg 4\Mads opg 4\obj\Debug\Mads opg 4.exe
+C:\Users\Mads\source\repos\Afslutningstest Mads hold D55\Mads opg 4\Mads opg 4\obj\Debug\Mads opg 4.pdb
